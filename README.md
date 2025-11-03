@@ -9,6 +9,7 @@ Welcome to the "Order in Chaos" repository. This collection contains articles an
 | # | Title | Key Topics |
 |:-:|-------|------------|
 | 1 | [Handling an Agitated Customer Call in the Weekly Status Meeting](articles/01-agitated-customer-call.md) | Customer Communication, Scope Management, De-escalation |
+| 2 | https://www.linkedin.com/pulse/order-chaos-2-how-handle-scope-creep-sameer-upare-vymsc| Scope Creep, Scope Management, Project Management|
 | *More articles coming soon!* | | |
 
 ## 💡 Series Themes
