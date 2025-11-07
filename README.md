@@ -6,10 +6,11 @@ Welcome to the "Order in Chaos" repository. This collection contains articles an
 
 ## 📚 Articles
 
-| # | Title |Githib Link| Key Topics |
+| # | Title | Link| Key Topics |
 |:-:|-------|-----------------|------------|
-| 1 | [Handling an Agitated Customer Call in the Weekly Status Meeting](articles/01-agitated-customer-call.md) |  |Customer Communication, Scope Management, De-escalation|
-| 2 | https://www.linkedin.com/pulse/order-chaos-2-how-handle-scope-creep-sameer-upare-vymsc| https://github.com/SameerUpare/order-in-chaos/blob/main/articles/02-handling%20scope%20creep|Scope Creep, Scope Management, Project Management|
+| 1 |Order in Chaos - 5 Minutes Into the Status Meeting, The Client Snapped. | [Handling an Agitated Customer Call in the Weekly Status Meeting](articles/01-agitated-customer-call.md) | Customer Communication, Scope Management, De-escalation|
+| 2 | Order in Chaos #2 – How to Handle Scope Creep | (https://www.linkedin.com/pulse/order-chaos-2-how-handle-scope-creep-sameer-upare-vymsc)|Scope Creep, Scope Management, Project Management|
+| 3 |Order in Chaos# 3 - After the Storm: What to Do After a Tough Client Call| https://www.linkedin.com/pulse/order-chaos-3-after-storm-what-do-tough-client-call-sameer-upare-inuqc/| Customer Communication,  De-escalation|
 | *More articles coming soon!* | | ||
 
 ## 💡 Series Themes
