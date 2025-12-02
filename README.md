@@ -11,7 +11,11 @@ Welcome to the "Order in Chaos" repository. This collection contains articles an
 | 1 |Order in Chaos - 5 Minutes Into the Status Meeting, The Client Snapped. | [Handling an Agitated Customer Call in the Weekly Status Meeting](articles/01-agitated-customer-call.md) | Customer Communication, Scope Management, De-escalation|
 | 2 | Order in Chaos #2 – How to Handle Scope Creep | (https://www.linkedin.com/pulse/order-chaos-2-how-handle-scope-creep-sameer-upare-vymsc)|Scope Creep, Scope Management, Project Management|
 | 3 |Order in Chaos# 3 - After the Storm: What to Do After a Tough Client Call| https://www.linkedin.com/pulse/order-chaos-3-after-storm-what-do-tough-client-call-sameer-upare-inuqc/| Customer Communication,  De-escalation|
+| 4 | Order in Chaos #4: Why Your Status Report Needs a Decision Log| https://www.linkedin.com/posts/sameerupare_programmanagement-steerco-bestpractices-activity-7394393248074625024-D-Hq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJx15sBlnTg1rQezqqmyuZD8njBSv1UQp8|Project Status Report|
+| 5 | Order in Chaos #5 - Stop That "Quick Fix"! Why Small Changes Need Big Conversations.| https://www.linkedin.com/posts/sameerupare_even-the-smallest-requirement-change-can-activity-7398012678004391936-duHN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJx15sBlnTg1rQezqqmyuZD8njBSv1UQp8 |Requirement Workshops|
+| 6 | ORDER IN CHAOS #6 — Stakeholder Management: The Update You Forget, The Fire You Pay For| https://www.linkedin.com/posts/sameerupare_orderinchaos-projectmanagement-stakeholdermanagement-activity-7399816942452293632-f3LN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJx15sBlnTg1rQezqqmyuZD8njBSv1UQp8|Stakeholder Management|
 | *More articles coming soon!* | | ||
+
 
 ## 💡 Series Themes
 
